@@ -5,4 +5,4 @@ A dead simple implementation of node-schedule with ascii art so you feel cool wh
 # Light it Up
 `npm i`
 
-`npm run lightitup -- --port 1337 --dest http://url.youwant.to.beatup/ --interval 1`
+`npm run lightitup -- --dest http://url.youwant.to.beatup/ --interval 1`
